@@ -1,0 +1,36 @@
+ul{
+    color: slategray;
+}
+ul>li{
+    list-style:armenian;
+}
+
+.undlnd{
+    text-decoration: underline;
+}
+
+.ybgrd{
+    background-color: rgb(150, 1, 1);
+}
+.bt-menu{
+    display: flex;
+    justify-content: space-between;
+}
+.card-conatiner{
+    display: flex;
+    justify-content: space-between;
+    align-items:  flex-start;
+    flex-wrap:wrap;
+}
+.card-conatiner>div{
+    border-radius: 1rem;
+    display: flex;
+    min-width: 12rem;
+    max-width: 18rem;
+    margin: 1rem;
+}
+
+img.card-img-top{
+    border-radius: 1rem 1rem 0 0;
+    padding:0.5rem;
+}
