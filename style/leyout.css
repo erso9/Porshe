@@ -1,7 +1,7 @@
 ul{
     color: slategray;
 }
-ul>li{
+ul.my-list>li{
     list-style:armenian;
 }
 
