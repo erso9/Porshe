@@ -1,8 +1,16 @@
 body{
-    background-color: #925d60;
+    background-color: #000000;
 }
-ul{
-    color: slategray;
+*{
+    color: rgb(255, 255, 255);
+}
+a{
+    color:rgb(230, 225, 166) !important;
+    font-size: 1.2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul {
+    color: yellow;
 }
 ul.my-list>li{
     list-style:armenian;
